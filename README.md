@@ -10,19 +10,33 @@ Applications of cryptography include electronic commerce, chip-based payment car
 
 * [Read this first](#read-this-first)
 * [Installation](#installation)
+  * [SSH](#ssh)
+  * [HTTPS](#https)
 * [Learning](#learning)
   * [Coursera](#coursera)
 
 ## Read this first 
 
 * This repository was designed to house all my progress and learning in the field of cryptography
+
 * If you believe you found a bug or any element which could become more secure, please open a pull request or create an issue in which you explain the 
   flaw or attempt to fix it
   
 ## Installation
 
+### SSH
+
 ```bash
-git clone 
+git clone git@github.com:yoavami/cryptography.git
+```
+```bash
+cd cryptography
+```
+
+### HTTPS
+
+```bash
+git clone https://github.com/yoavami/cryptography.git
 ```
 ```bash
 cd cryptography
@@ -30,7 +44,8 @@ cd cryptography
 
 ## Learning
 
-All the courses and materials are used are listed here. 
+All courses and materials used are listed here. 
 
 ### Coursera
+
 
