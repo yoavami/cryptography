@@ -48,6 +48,9 @@ cd cryptography
 ## Learning
 
 All courses and materials used are listed here. 
+> **Note**
+> 
+> Some materials such as quick readings and reviews may not be listed in this list
 
 ### Coursera
 
