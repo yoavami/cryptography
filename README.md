@@ -59,7 +59,8 @@ All courses and materials used are listed here.
 
 ### YouTube
 
-* [Fireship:](https://www.youtube.com/c/Fireship) [7 Cryptography Concepts EVERY Developer Should Know](https://youtu.be/NuyzuNBFWxQ)
+* [Fireship](https://www.youtube.com/c/Fireship)  -  [7 Cryptography Concepts EVERY Developer Should Know](https://youtu.be/NuyzuNBFWxQ)
+* [CrashCourse](https://www.youtube.com/c/crashcourse)  -  [Cryptography: Crash Course Computer Science #33](https://youtu.be/jhXCTbFnK8o)
 
 
 
